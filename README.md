@@ -8,6 +8,6 @@ Use Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 
 Check that `index.html`, `projects-secure-network.html`, `projects-windows-security-lab.html`, `projects-linux-security-assessment.html`, and `assets-segmented-lab-network.webp` appear **side by side** in the repository file list.
 
-The raw videos and unreviewed credential dumps are intentionally absent. The video sections are posters, not playable videos until sanitized video links are supplied. Public contact: htbunn2@gmail.com.
+The raw videos and unreviewed credential dumps are intentionally absent. All three featured case studies now include playable YouTube demonstrations. The portfolio intentionally does not publish an email address until a dedicated forwarding alias is available.
 
 If you uploaded an earlier version with `projects/`, `notes/`, or `assets/` folders, you can remove those obsolete copies after confirming this version works. Old committed versions remain in Git history.
